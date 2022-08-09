@@ -1,0 +1,36 @@
+PRNCPTX:{'1': 0, '10': 1, '2': 2, '3': 3, '4': 4, '6': 5, '7': 6, '8': 7, '9': 8, 'COLECTOMY PRTL W/COLOPROCTOSTOMY': 9}
+TRANST:{'From acute care hospital inpatient': 0, 'Not transferred (admitted from home)': 1, 'Nursing home - Chronic care - Intermediate care': 2, 'Outside emergency department': 3, 'Transfer from other': 4, 'nan': 5}
+ANESTHES:{'Epidural': 0, 'General': 1, 'Local': 2, 'MAC/IV Sedation': 3, 'None': 4, 'Regional': 5, 'Spinal': 6, 'nan': 7}
+SURGSPEC:{'Cardiac Surgery': 0, 'General Surgery': 1, 'Gynecology': 2, 'Neurosurgery': 3, 'Obstetrics': 4, 'Orthopedics': 5, 'Other': 6, 'Otolaryngology (ENT)': 7, 'Plastics': 8, 'Thoracic': 9, 'Urology': 10, 'Vascular': 11, 'nan': 12}
+DYSPNEA:{'AT REST': 0, 'MODERATE EXERTION': 1, 'No': 2}
+FNSTATUS2:{'Independent': 0, 'Partially Dependent': 1, 'Totally Dependent': 2, 'nan': 3}
+PRSEPIS:{'None': 0, 'SIRS': 1, 'Sepsis': 2, 'Septic': 3, 'Septic Shock': 4}
+WNDCLAS:{'1-Clean': 0, '2-Clean/Contaminated': 1, '3-Contaminated': 2, '4-Dirty/Infected': 3}
+ASACLAS:{'1-No Disturb': 0, '2-Mild Disturb': 1, '3-Severe Disturb': 2, '4-Life Threat': 3, '5-Moribund': 4, 'None assigned': 5}
+ELECTSURG:{'0.0': 0, '1.0': 1, 'nan': 2}
+DISCHDEST:{'Against Medical Advice (AMA)': 0, 'Facility Which was Home': 1, 'Home': 2, 'Hospice': 3, 'Multi-level Senior Community': 4, 'Rehab': 5, 'Separate Acute Care': 6, 'Skilled Care, Not Home': 7, 'Unskilled Facility Not Home': 8, 'nan': 9}
+RETORRELATED:{'0.0': 0, '1.0': 1, 'nan': 2}
+WOUND_CLOSURE:{'All layers of incision (deep and superficial) fully closed': 0, 'No layers of incision are surgically closed': 1, 'Only deep layers closed; superficial left open': 2, 'nan': 3}
+OTHCDIFF:{'0.0': 0, '1.0': 1, 'nan': 2}
+COL_MECH_BOWEL_PREP:{'0.0': 0, '1.0': 1, 'nan': 2}
+COL_ORAL_ANTIBIOTIC:{'0.0': 0, '1.0': 1, 'nan': 2}
+COL_CHEMO:{'0.0': 0, '1.0': 1, 'nan': 2}
+COL_APPROACH:{'MIS': 0, 'open': 1, 'other': 2}
+COL_MARGINS:{'0.0': 0, '1.0': 1, 'nan': 2}
+COL_MALIGNANCYT:{'T0': 0, 'T1': 1, 'T2': 2, 'T3': 3, 'T4': 4, 'T4a': 5, 'T4b': 6, 'Tis': 7, 'Tx': 8, 'nan': 9}
+COL_MALIGNANCYN:{'N0': 0, 'N1': 1, 'N1a': 2, 'N1b': 3, 'N1c': 4, 'N2': 5, 'N2a': 6, 'N2b': 7, 'Nx': 8, 'nan': 9}
+COL_MALIGNANCYM:{'M0': 0, 'M0/Mx': 1, 'M1': 2, 'M1a': 3, 'M1b': 4, 'nan': 5}
+COL_ANASTOMOTIC:{'Leak, no treatment intervention documented': 0, 'Leak, treated w/ interventional means': 1, 'Leak, treated w/ non-interventional/non-operative means': 2, 'Leak, treated w/ reoperation': 3, 'No': 4, 'No definitive diagnosis of leak/leak related abscess': 5, 'Yes-no intervention required': 6, 'Yes-percutaneous intervention': 7, 'Yes-reoperation': 8, 'nan': 9}
+COL_ILEUS:{'0.0': 0, '1.0': 1, 'nan': 2}
+COL_NODESEVAL:{'0.0': 0, '1.0': 1, '10.0': 2, '100.0': 3, '11.0': 4, '12.0': 5, '13.0': 6, '14.0': 7, '15.0': 8, '16.0': 9, '17.0': 10, '18.0': 11, '19.0': 12, '2.0': 13, '20.0': 14, '21.0': 15, '22.0': 16, '23.0': 17, '24.0': 18, '25.0': 19, '26.0': 20, '27.0': 21, '28.0': 22, '29.0': 23, '3.0': 24, '30.0': 25, '31.0': 26, '32.0': 27, '33.0': 28, '34.0': 29, '35.0': 30, '36.0': 31, '37.0': 32, '38.0': 33, '39.0': 34, '4.0': 35, '40.0': 36, '41.0': 37, '42.0': 38, '43.0': 39, '44.0': 40, '45.0': 41, '46.0': 42, '47.0': 43, '48.0': 44, '49.0': 45, '5.0': 46, '50.0': 47, '51.0': 48, '52.0': 49, '53.0': 50, '54.0': 51, '55.0': 52, '56.0': 53, '57.0': 54, '58.0': 55, '59.0': 56, '6.0': 57, '60.0': 58, '61.0': 59, '62.0': 60, '63.0': 61, '64.0': 62, '65.0': 63, '66.0': 64, '67.0': 65, '68.0': 66, '69.0': 67, '7.0': 68, '70.0': 69, '71.0': 70, '72.0': 71, '73.0': 72, '74.0': 73, '75.0': 74, '76.0': 75, '77.0': 76, '78.0': 77, '79.0': 78, '8.0': 79, '80.0': 80, '81.0': 81, '82.0': 82, '83.0': 83, '84.0': 84, '85.0': 85, '86.0': 86, '87.0': 87, '88.0': 88, '89.0': 89, '9.0': 90, '90.0': 91, '91.0': 92, '92.0': 93, '93.0': 94, '94.0': 95, '95.0': 96, '96.0': 97, '97.0': 98, '98.0': 99, '99.0': 100, 'nan': 101}
+AGE:{'10-19': 0, '20-29': 1, '30-39': 2, '40-49': 3, '50-59': 4, '60-69': 5, '70-79': 6, '80-89': 7}
+bmi:{'normal': 0, 'obese': 1, 'overweight': 2, 'underweight': 3}
+PRCREAT:{'high_f': 0, 'high_m': 1, 'low_f': 2, 'low_m': 3, 'normal_f': 4, 'normal_m': 5}
+PRSODM:{'high': 0, 'low': 1, 'normal': 2}
+PRBUN:{'high': 0, 'low': 1, 'normal': 2}
+PRWBC:{'high': 0, 'low': 1, 'normal': 2}
+PRHCT:{'high': 0, 'low': 1, 'normal': 2}
+PRPLATE:{'high': 0, 'low': 1, 'normal': 2}
+OPTIME:{Interval(-0.001, 117.0, closed='right'): 0, Interval(117.0, 164.0, closed='right'): 1, Interval(164.0, 227.0, closed='right'): 2, Interval(227.0, 1355.0, closed='right'): 3}
+HTOODAY:{Interval(-0.001, 1.0, closed='right'): 0, Interval(1.0, 4.0, closed='right'): 1, Interval(4.0, 365.0, closed='right'): 2}
+DOPTODIS:{Interval(-0.001, 2.0, closed='right'): 0, Interval(2.0, 3.0, closed='right'): 1, Interval(3.0, 4.0, closed='right'): 2, Interval(4.0, 5.0, closed='right'): 3, Interval(5.0, 6.0, closed='right'): 4, Interval(6.0, 7.0, closed='right'): 5, Interval(7.0, 8.0, closed='right'): 6, Interval(8.0, 13.0, closed='right'): 7, Interval(13.0, 120.0, closed='right'): 8}
